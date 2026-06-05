@@ -1,21 +1,9 @@
-
-'''a={"ID NO":CGV1358,"name":"kavya sri","College name":"ST Mary's Women's Engineering College","Mail id":"kavyasrikota989@gmail.com","Mobile no":8688944106,"percentage":68.0}
-print("      STUDENT PROFILE     ")
-print("ID NO:",a["ID NO"])
-print("Student name:",a["name"])
-print("College name:",a["College name"])
-print("Mail id:",a["Mail id"])
-print("Mobile no:",a["Mobile no"])
-print("Percentage:",a["percentage"])'''
-
-
 '''a=str(input("value"))
 if type(a) is str:
     print("true")
 else:
     print("false")
-for key,value in a.items():
-    print(f"{key}:{value}")'''
+
 
 #if -condition by using comparision operators
 #<,>,<=,>=,!=.==
@@ -214,12 +202,5 @@ if type(a) is not str:
 else:
     print("false")'''
 
-a={"ID NO":"CGV1358","name":"kavya sri","College name":"ST Mary's Women's Engineering College","Mail id":"kavyasrikota989@gmail.com","Mobile no":8688944106,"percentage":68.0}
-print("      STUDENT PROFILE     ")
-print("ID NO:",a["ID NO"])
-print("Student name:",a["name"])
-print("College name:",a["College name"])
-print("Mail id:",a["Mail id"])
-print("Mobile no:",a["Mobile no"])
-print("Percentage:",a["percentage"])
+
 
